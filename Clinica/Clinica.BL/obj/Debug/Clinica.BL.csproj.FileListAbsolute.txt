@@ -1,0 +1,10 @@
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica.BL\bin\Debug\Clinica.BL.dll
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica.BL\bin\Debug\Clinica.BL.pdb
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica.BL\obj\Debug\Clinica.BL.dll
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica.BL\obj\Debug\Clinica.BL.pdb
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica.BL\obj\Debug\Clinica.BL.csprojResolveAssemblyReference.cache
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica.BL\bin\Debug\Clinica.BL.dll
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica.BL\bin\Debug\Clinica.BL.pdb
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica.BL\obj\Debug\Clinica.BL.csprojResolveAssemblyReference.cache
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica.BL\obj\Debug\Clinica.BL.dll
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica.BL\obj\Debug\Clinica.BL.pdb

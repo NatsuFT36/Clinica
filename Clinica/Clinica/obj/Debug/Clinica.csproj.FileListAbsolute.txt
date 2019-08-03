@@ -1,0 +1,59 @@
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormLogin.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMenu.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormCitas.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMedicos.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormPacientes.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormRecetarios.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteMedicamentos.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePacientes.resources
+C:\Users\CDI PRINCIPAL\Documents\Proyectos L3\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePatologias.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormCitas.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormLogin.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMedicos.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMenu.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormPacientes.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormRecetarios.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteMedicamentos.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePacientes.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePatologias.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormAcercaPrograma.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteCitas.resources
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.dll
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.pdb
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.dll
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.pdb
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormAcercaPrograma.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormCitas.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormLogin.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMedicos.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormMenu.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormPacientes.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormRecetarios.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteCitas.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteMedicamentos.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePacientes.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePatologias.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
