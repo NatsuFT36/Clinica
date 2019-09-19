@@ -57,3 +57,6 @@ C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clini
 C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReportePatologias.resources
 C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
 C:\Users\Frank Milla\Documents\Visual Studio 2015\Projects\Clinica\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\Frank Milla\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Frank Milla\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Frank Milla\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
